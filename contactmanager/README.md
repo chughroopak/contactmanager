@@ -1,3 +1,5 @@
+This is a basic React app using Context api to provide CRUD functionalities over contacts.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
